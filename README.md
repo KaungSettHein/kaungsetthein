@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaung Sett Hein
 
-# 👨‍💻 Software Developer | Problem Solver
+# 👨‍💻 Software Developer
 
 ## About Me  
 I'm a passionate software developer with a strong foundation in backend and full-stack development. I love solving complex problems, writing clean and maintainable code, and continuously learning to improve my skills.
